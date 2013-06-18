@@ -1,0 +1,33 @@
+Partlist
+
+Exported from ENC28J60 Wing.brd at 5/30/2013 7:04:12 PM
+Edited by Logxen at 2013/05/30 7:09 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                Package            Library             Position (inch)       Orientation
+
+C1       0.1uF                0402-CAP           SparkFun-Capacitors (0.8625 0.25)         R180
+C2       0.1uF                0402-CAP           SparkFun-Capacitors (0.8625 0.6)          R180
+C3       10uF                 1206-CAP           SparkFun-Capacitors (0.6875 0.125)        R180
+C4       12pF                 0402-CAP           SparkFun-Capacitors (0.3375 0.2125)       R180
+C5       12pF                 0402-CAP           SparkFun-Capacitors (0.25 0.3125)         R270
+C6       0.1uF                0402-CAP           SparkFun-Capacitors (0.4375 0.125)        R270
+C7       0.1uF                0402-CAP           SparkFun-Capacitors (0.3875 0.125)        R270
+C8       0.1uF                0402-CAP           SparkFun-Capacitors (0.3125 0.7)          R90
+C9       0.1uF                0402-CAP           SparkFun-Capacitors (0.3625 0.7)          R90
+C10      0.1uF                0402-CAP           SparkFun-Capacitors (0.4625 0.7)          R90
+L1       10R                  0402-FB            dp_devices          (0.825 0.15)          R90
+R1       330R                 0402-RES           SparkFun-Resistors  (1.5125 0.05)         R0
+R2       330R                 0402-RES           SparkFun-Resistors  (1.5125 0.75)         R0
+R3       49.9R                0402-RES           SparkFun-Resistors  (0.8875 0.35)         R90
+R4       49.9R                0402-RES           SparkFun-Resistors  (0.8875 0.15)         R90
+R5       49.9R                0402-RES           SparkFun-Resistors  (0.8875 0.7)          R90
+R6       49.9R                0402-RES           SparkFun-Resistors  (0.8875 0.5)          R90
+R7       2.32K                0402-RES           SparkFun-Resistors  (0.7375 0.7)          R270
+U1       ENC28J60-I/SS        TSSOP-28           logxen              (0.6 0.4125)          R90
+Y1       7S-25.000MAHE-T      CRYSTAL_2.5X2      microbuilder        (0.3375 0.3125)       R270
+ETH1     CON-RJ45-F           HR911105A          dp_devices          (1.375 0.4)           R270
+JP1      PAPILIO-WING-8BITS   PAPILIO-WING-8BITS logxen              (0.05 0.05)           R0
